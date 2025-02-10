@@ -1,4 +1,4 @@
-# BOLIVAR ALEX KYLE
+# reajane domingo
 # ITELEC2
 # Problem Set 01 - Problem 01
 # Simple Calculator Program
